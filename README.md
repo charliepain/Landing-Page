@@ -1,7 +1,7 @@
 Landing Page for a website
 
-Cat image source:
-Photo by Larissa Barbosa: https://www.pexels.com/photo/close-up-photography-of-brown-and-white-kitten-1870376/
+Lava image source:
+Photo by Daniel Torobekov from Pexels: https://www.pexels.com/photo/lava-from-volcano-11258459/
 
 Burning wood image source:
 Photo by Oussama Elhaidi from Pexels: https://www.pexels.com/photo/burning-wood-on-the-ground-5159914/
