@@ -25,7 +25,7 @@ header a, .hero .content p {
 header .logo {
     font-size: 24px;
     color: #f9faf8;
-    font-weight: bold;
+    font-weight: 700;
 }
 
 header ul {
@@ -66,6 +66,8 @@ button, .banner {
 button {
     padding: 8px 32px;
     border-radius: 8px;
+    font-size: 16px;
+    font-weight: 700;
 }
 
 .hero .content button {
@@ -74,7 +76,7 @@ button {
 }
 
 .banner button {
-    border: 2px solid white;
+    border: 3px solid white;
 }
 
 section.content {
@@ -129,5 +131,26 @@ section.content .quote .quote-text {
 section.content .quote .quote-source {
     text-align: right;
     font-size: 18px;
+    font-weight: 700;
+}
+
+section.content .banner-container {
+    background-color: white;
+    padding: 96px 15%;
+}
+
+section.content .banner {
+    border-radius: 8px;
+    padding: 4% 10%;
+    display: flex;
+    justify-content: space-between;
+}
+
+section.content .banner .main-message {
+    font-size: 20px;
     font-weight: bold;
+}
+
+section.content .banner .secondary-message {
+    color: lightgrey;
 }
