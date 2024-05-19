@@ -16,7 +16,7 @@ body {
 }
 
 /* Hero Secondary text, Header links */
-header a, .hero .content p {
+header a, .hero .content p, footer {
     font-size: 18px;
     color: #e5e7eb;
 }
@@ -38,8 +38,11 @@ header a {
     text-decoration: none;
 }
 
-header, .hero {
+header, .hero, footer {
     background-color: #1f2937;
+}
+
+header, .hero {
     padding: 16px 15%;
     display: flex;
     justify-content: space-between;
@@ -101,7 +104,7 @@ section.content .information {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 4px;
+    gap: 8px;
     padding-bottom: 96px;
 }
 
@@ -153,4 +156,9 @@ section.content .banner .main-message {
 
 section.content .banner .secondary-message {
     color: lightgrey;
+}
+
+footer {
+    padding: 32px;
+    text-align: center;
 }
